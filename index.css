@@ -1,0 +1,268 @@
+* {
+    margin: 0;
+    font-family: 'Inter';
+}
+
+.navigation {
+    position: absolute;
+    width: 1280px;
+    height: 65px;
+    background-color: #203A59;
+}
+
+.navigation-logo {
+    position: absolute;
+    width: 64px;
+    height: 65px;
+    left: 163px;
+}
+
+.navigation-faq {
+    position: absolute;
+    width: 66px;
+    height: 39px;
+    left: 256px;
+    top: 14px;
+    font-style: black;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 39px;
+    color: #727272;
+}
+
+.navigation-count {
+    position: absolute;
+    width: 33px;
+    height: 37px;
+    left: 1021px;
+    top: 14px;
+    font-style: black;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 39px;
+    color: #727272;
+}
+
+.navigation-cart {
+    position: absolute;
+    width: 63px;
+    height: 52px;
+    left: 1054px;
+    top: 6px;
+}
+
+.header-image {
+    top: 65px;
+    position: absolute;
+    opacity: 0.8;
+    mix-blend-mode: normal;
+}
+
+.header-logo {
+    position: absolute;
+    width: 150px;
+    height: 138px;
+    left: 152px;
+    top: 114px;
+}
+
+.header-title {
+    position: absolute;
+    top: 130px;
+    height: 107px;
+    left: 312px;
+    width: 821px;
+    font-weight: 900;
+    font-size: 82px;
+    line-height: 99px;
+    font-style: black;
+    color: #2E1094;
+}
+
+.section-text {
+    position: absolute;
+    color: #203A59;
+    font-style: black;
+    left: 165px;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+#section-hoodie {
+    top: 358px;
+}
+
+#section-hat {
+    top: 1339px;
+}
+
+.product {
+    position: absolute;
+}
+
+.product-image {
+    width: 300px;
+    height: 317px;
+    border-radius: 30px;
+    border: 1px solid #000000;
+}
+
+.product-title {
+    margin-top: 17px;
+    margin-bottom: 0px;
+    font-family: 'Inder';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.product-type {
+    font-family: 'Inder';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+#hoodie-1 {
+    left: 165px;
+    top: 468px;
+}
+
+#hoodie-image-1:hover {
+    content: url(./images/hoodie1-back.png);
+    cursor: pointer;
+}
+
+#hoodie-2 {
+    left: 490px;
+    top: 468px;
+}
+
+#hoodie-image-2:hover {
+    content: url(./images/hoodie2-back.png);
+    cursor: pointer;
+}
+
+#hoodie-3 {
+    left: 815px;
+    top: 468px;
+}
+
+#hoodie-image-3:hover {
+    content: url(./images/hoodie3-back.png);
+    cursor: pointer;
+}
+
+#hoodie-4 {
+    left: 165px;
+    top: 915px;
+}
+
+#hoodie-image-4:hover {
+    content: url(./images/hoodie4-back.png);
+    cursor: pointer;
+}
+
+#hoodie-5 {
+    left: 490px;
+    top: 912px;
+}
+
+#hoodie-image-5:hover {
+    content: url(./images/hoodie5-back.png);
+    cursor: pointer;
+}
+
+#hoodie-6 {
+    left: 815px;
+    top: 911px;
+}
+
+#hoodie-image-6:hover {
+    content: url(./images/hoodie6-back.png);
+    cursor: pointer;
+}
+
+#hat-1 {
+    left: 165px;
+    top: 1462px;
+}
+
+#hat-2 {
+    left: 490px;
+    top: 1462px;
+}
+
+#hat-3 {
+    left: 815px;
+    top: 1462px;
+}
+
+#hat-4 {
+    left: 164px;
+    top: 1909px;
+}
+
+.footer {
+    position: absolute;
+    width: 1280px;
+    height: 272px;
+    left: 0px;
+    top: 2728px;
+    background-color: #203A59;
+}
+
+.footer-text {
+    position: absolute;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 29px;
+    color: #727272;
+}
+
+#text-powered {
+    width: 140px;
+    height: 29px;
+    left: 164px;
+    top: 2772px;
+}
+
+#text-support {
+    width: 99px;
+    height: 29px;
+    left: 164px;
+    top: 2811px;
+}
+
+#text-trackord {
+    width: 143px;
+    height: 29px;
+    left: 164px;
+    top: 2850px;
+}
+
+#text-contact {
+    width: 134px;
+    height: 29px;
+    left: 164px;
+    top: 2889px;
+}
+
+#text-refund {
+    width: 166px;
+    height: 29px;
+    left: 164px;
+    top: 2928px;
+}
+
+.footer-image {
+    position: absolute;
+    width: 300px;
+    height: 30px;
+    left: 330px;
+    top: 2771px;
+}
